@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daniweb Create Notification</string>
+    <string name="button">Add Notification</string>
+    <string name="channel_id">123</string>
+    <string name="channel_name">Notification Channel Name</string>
+    <string name="notification_title">Example Notification Title</string>
+    <string name="notification_content">Example Notification Content</string>
+    <item type="id" name="notification_id"/>
+</resources>
